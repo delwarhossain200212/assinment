@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.full-website{
+  
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+  width: 1024px;
+  margin: 20px auto;
+
+
+}
+.menu{
+  text-transform: uppercase;
+  background-color: rgb(62, 9, 66);
+
+}
+.banner{
+margin-bottom:-5px;
+height: auto;
+background-color: rgb(169, 61, 177);
+
+
+}
+.banner img{
+  width: 100%;
+}
+.container{
+background: rgb(83, 6, 90);
+}
+.footer{
+background: rgb(65, 14, 65);
+}
+.footer-bottom{
+  background: rgb(80, 67, 82);
+
+}
+.op{
+  padding:30px 0 ;
+}
+.eop{
+padding:60px 0 ;
+}
